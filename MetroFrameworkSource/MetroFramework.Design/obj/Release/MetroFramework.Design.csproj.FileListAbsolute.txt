@@ -1,0 +1,6 @@
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework.Design\bin\Release\MetroFramework.Design.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework.Design\bin\Release\MetroFramework.Design.pdb
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework.Design\bin\Release\MetroFramework.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework.Design\obj\Release\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework.Design\obj\Release\MetroFramework.Design.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework.Design\obj\Release\MetroFramework.Design.pdb

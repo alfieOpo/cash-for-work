@@ -1,0 +1,39 @@
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Debug\Cash for Work.exe
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Debug\MaterialSkin.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Debug\MetroFramework.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Debug\AForge.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Debug\AForge.Imaging.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Debug\AForge.Math.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Debug\AForge.Video.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Debug\MetroFramework.pdb
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Debug\AForge.xml
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Debug\AForge.Imaging.xml
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Debug\AForge.Math.xml
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Debug\AForge.Video.xml
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\cashforwork.csprojResolveAssemblyReference.cache
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\cashforwork.cashforwork.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\cashforwork.cashUsers.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\cashforwork.CustomMessageForm.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\cashforwork.ImageUploader.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\cashforwork.infoform.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\cashforwork.Login.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\cashforwork.Mainform.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\cashforwork.passwordvalidator.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\cashforwork.Properties.Resources.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\cashforwork.report.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\cashforwork.ServerConnection.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\cashforwork.csproj.GenerateResource.Cache
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\RdlCompile.cache
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\RdlCompile.compiled
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\Cash for Work.exe.manifest
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\Cash for Work.application
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\Cash for Work.exe
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\Cash for Work.pdb
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Debug\Cash for Work.exe.config
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Debug\Cash for Work.exe.manifest
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Debug\Cash for Work.application
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Debug\Cash for Work.pdb
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\cashforwork.minimal.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Debug\cashforwork.minimalAdapter.resources

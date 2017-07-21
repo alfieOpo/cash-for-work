@@ -1,0 +1,91 @@
+C:\Users\Nina\Desktop\Norzagaray\WinForms\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nina\Desktop\Norzagaray\WinForms\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\Nina\Desktop\Norzagaray\WinForms\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\Nina\Desktop\Norzagaray\WinForms\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\Nina\Desktop\Norzagaray\WinForms\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Norzagaray\WinForms\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\Nina\Desktop\Norzagaray\WinForms\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+C:\Users\Nina\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\Nina\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\Nina\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\Nina\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\Nina\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\Nina\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\Nina\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+C:\Users\Ronrick\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ronrick\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\Ronrick\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\Ronrick\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\Ronrick\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\Ronrick\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\Ronrick\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+C:\Users\Arlene\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\Arlene\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\Arlene\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\Arlene\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\Arlene\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\Arlene\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\Arlene\Desktop\Payroll\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+C:\Users\Arlene\Desktop\192\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\Arlene\Desktop\192\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\Arlene\Desktop\192\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\Arlene\Desktop\192\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\Arlene\Desktop\192\Payroll\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\Arlene\Desktop\192\Payroll\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\Arlene\Desktop\192\Payroll\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+C:\Users\MIS2K15\Desktop\ppmis\payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\MIS2K15\Desktop\ppmis\payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\MIS2K15\Desktop\ppmis\payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\MIS2K15\Desktop\ppmis\payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\MIS2K15\Desktop\ppmis\payroll\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\MIS2K15\Desktop\ppmis\payroll\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\MIS2K15\Desktop\ppmis\payroll\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+C:\Users\Arlene\Desktop\Project\192\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\Arlene\Desktop\Project\192\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\Arlene\Desktop\Project\192\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\Arlene\Desktop\Project\192\Payroll\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\Arlene\Desktop\Project\192\Payroll\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\Arlene\Desktop\Project\192\Payroll\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\Arlene\Desktop\Project\192\Payroll\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+C:\Users\Arlene\Documents\Visual Studio 2012\Projects\TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\Arlene\Documents\Visual Studio 2012\Projects\TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\Arlene\Documents\Visual Studio 2012\Projects\TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\Arlene\Documents\Visual Studio 2012\Projects\TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\Arlene\Documents\Visual Studio 2012\Projects\TIS\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\Arlene\Documents\Visual Studio 2012\Projects\TIS\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\Arlene\Documents\Visual Studio 2012\Projects\TIS\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+C:\Users\Arlene\Desktop\Project\192\TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\Arlene\Desktop\Project\192\TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\Arlene\Desktop\Project\192\TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\Arlene\Desktop\Project\192\TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\Arlene\Desktop\Project\192\TIS\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\Arlene\Desktop\Project\192\TIS\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\Arlene\Desktop\Project\192\TIS\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+D:\Project\192\TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+D:\Project\192\TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+D:\Project\192\TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.dll
+D:\Project\192\TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+D:\Project\192\TIS\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+D:\Project\192\TIS\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+D:\Project\192\TIS\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+C:\Users\Ronrick\Desktop\ABSN PROJECTS\baseii.TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\Ronrick\Desktop\ABSN PROJECTS\baseii.TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\Ronrick\Desktop\ABSN PROJECTS\baseii.TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\Ronrick\Desktop\ABSN PROJECTS\baseii.TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\Ronrick\Desktop\ABSN PROJECTS\baseii.TIS\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\Ronrick\Desktop\ABSN PROJECTS\baseii.TIS\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\Ronrick\Desktop\ABSN PROJECTS\baseii.TIS\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+D:\- TIS\baseii.TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+D:\- TIS\baseii.TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+D:\- TIS\baseii.TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.dll
+D:\- TIS\baseii.TIS\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+D:\- TIS\baseii.TIS\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+D:\- TIS\baseii.TIS\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+D:\- TIS\baseii.TIS\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.Design.pdb
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework.Design\bin\Debug\MetroFramework.pdb
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.csprojResolveAssemblyReference.cache
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework.Design\obj\Debug\MetroFramework.Design.pdb

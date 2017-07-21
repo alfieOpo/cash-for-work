@@ -1,0 +1,7 @@
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework\bin\Release\MetroFramework.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework\obj\Release\MetroFramework.csprojResolveAssemblyReference.cache
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework\obj\Release\MetroFramework.Controls.MetroGrid.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework\obj\Release\MetroFramework.MetroMessageBoxControl.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework\obj\Release\MetroFramework.Properties.Resources.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework\obj\Release\MetroFramework.csproj.GenerateResource.Cache
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\MetroFrameworkSource\MetroFramework\obj\Release\MetroFramework.dll

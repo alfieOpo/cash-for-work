@@ -1,0 +1,38 @@
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Release\Cash for Work.exe.config
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Release\Cash for Work.exe.manifest
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Release\Cash for Work.application
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Release\Cash for Work.exe
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Release\Cash for Work.pdb
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Release\AForge.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Release\AForge.Imaging.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Release\AForge.Math.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Release\AForge.Video.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Release\MaterialSkin.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Release\MetroFramework.dll
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Release\AForge.xml
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Release\AForge.Imaging.xml
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Release\AForge.Math.xml
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Release\AForge.Video.xml
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\cashforwork.csprojResolveAssemblyReference.cache
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\cashforwork.cashforwork.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\cashforwork.cashUsers.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\cashforwork.ImageUploader.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\cashforwork.infoform.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\cashforwork.Login.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\cashforwork.Mainform.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\cashforwork.passwordvalidator.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\cashforwork.Properties.Resources.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\cashforwork.report.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\cashforwork.csproj.GenerateResource.Cache
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\RdlCompile.cache
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\RdlCompile.compiled
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\Cash for Work.exe.manifest
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\Cash for Work.application
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\Cash for Work.exe
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\Cash for Work.pdb
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\cashforwork.ServerConnection.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\cashforwork.CustomMessageForm.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\cashforwork.minimal.resources
+C:\Users\ALFIE\Documents\Visual Studio 2012\Projects\cashforwork\cashforwork\obj\Release\cashforwork.minimalAdapter.resources
